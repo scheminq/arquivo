@@ -6,7 +6,6 @@
 
 	<H1> GIT – VERSIONAMENTO </H1>
 
-
 </BODY>
 
 </HTML>
